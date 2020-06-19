@@ -1,3 +1,8 @@
 body {
     background-color: aquamarine;
 }
+
+#tu {
+    table-layout: auto;
+    border: black;
+}
